@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700276575 source:c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\gragos2\grafos2\main.cpp
+	<iostream>
+	"Trabajador.h"
+
+1700275342 c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\gragos2\grafos2\include\trabajador.h
+
+1700445222 source:c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\gragos2\grafos2\src\trabajador.cpp
+	"Trabajador.h"
+	<iostream>
+	<fstream>
+	"cstring"
+

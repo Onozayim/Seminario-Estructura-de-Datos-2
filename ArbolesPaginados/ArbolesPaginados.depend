@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1699937458 source:c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\abp\arbolespaginados\main.cpp
+	<iostream>
+	"Grupo.h"
+
+1699934662 source:c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\abp\arbolespaginados\src\nodoarbolb.cpp
+
+1699934966 source:c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\abp\arbolespaginados\src\arbolb.cpp
+
+1700077660 source:c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\abp\arbolespaginados\src\grupo.cpp
+	"Grupo.h"
+	"ArbolB.h"
+	"iostream"
+	<fstream>
+	<stdlib.h>
+	<cstring>
+	<vector>
+	<list>
+
+1699937156 c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\abp\arbolespaginados\include\grupo.h
+	"Grupo.h"
+
+1699938413 c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\abp\arbolespaginados\include\arbolb.h
+
+1699938181 c:\users\camilo montes de oca\documents\cucei\3 semestre\sed2\abp\arbolespaginados\include\nodoarbolb.h
+	<iostream>
+	<iterator>
+	<list>
+	<vector>
+	<cstring>
+	<fstream>
+	<string>
+	"ArbolB.h"
+
